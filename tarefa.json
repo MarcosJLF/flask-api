@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "tarefa": "Ir para escola",
+        "concluida": true
+    },
+    {
+        "id": 2,
+        "tarefa": "Jogar bola",
+        "concluida": true
+    },
+    {
+        "id": 5,
+        "tarefa": "Corrigir tarefa",
+        "concluida": false
+    },
+    {
+        "id": 6,
+        "tarefa": "Estudar",
+        "concluida": false
+    },
+    {
+        "id": 7,
+        "tarefa": "Escovar os dentes",
+        "concluida": true
+    },
+    {
+        "id": 8,
+        "tarefa": "Dormir um pouco",
+        "concluida": false
+    }
+]
